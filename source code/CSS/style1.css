@@ -1,0 +1,26 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Reggae One', cursive;
+}
+
+#login-section{
+    min-height: 100vh;
+}
+#form1{
+    width:500px;
+}
+h1::after {
+    display: block;
+    height: 4px;
+    background-color: black;
+    content: " ";
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#Label1 {
+    width: 500px;
+    display: block;
+}
